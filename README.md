@@ -47,6 +47,6 @@ This project is developed for academic use .
 
 * **N.A.A.S. Nishshanka** – Team Leader / Main Developer
 * **M.S.D. Dharmadasa** – Documentation Lead
-* **WUI Rodrigo** – Backend Developer
+* **WUI Rodrigo** – DB creator
 * **I.M.T. Jayodya** – Frontend Developer / UI Designer
 
